@@ -1,0 +1,27 @@
+.card {
+-webkit-box-shadow: 16px 13px 43px -14px rgba(0,0,0,0.68);
+-moz-box-shadow: 16px 13px 43px -14px rgba(0,0,0,0.68);
+box-shadow: 16px 13px 43px -14px rgba(0,0,0,0.68);
+background: #3e3f3a;
+margin: 5px;
+padding: 10px;
+text-align: center;
+border-radius: 20px;
+border-collapse: 20px;
+color: #ddd;
+	}
+
+
+.card:hover {
+	background: #353531;
+	cursor: pointer;
+}
+
+.card:active {
+	background: #181818;
+
+}
+
+999999
+
+3e3f3a
